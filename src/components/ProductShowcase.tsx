@@ -1,28 +1,29 @@
 "use client";
 
+import Image from "next/image";
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 const products = [
   {
     id: 1,
-    nameEn: "VOLUME UP SOLUTION PLUS",
-    nameKr: "볼륨업 솔루션 플러스",
-    desc: "뿌리 영양과 볼륨을 동시에, 데일리 에센스",
-    featured: false,
+    nameEn: "CURLING CLIP",
+    nameKr: "컬링 클립",
+    desc: "집게로 간편하게 자연스러운 컬링을 완성하는 스타일링 클립",
+    image: "/images/1.png",
   },
   {
     id: 2,
     nameEn: "ROOT VOLUME PERM KIT",
     nameKr: "루트 볼륨 펌 키트",
     desc: "집에서 완성하는 프로페셔널 발근 볼륨 펌",
-    featured: true,
+    image: "/images/2.png",
   },
   {
     id: 3,
     nameEn: "CURL FIXER",
     nameKr: "컬 픽서",
     desc: "하루 종일 자연스러운 컬을 유지하는 픽싱 미스트",
-    featured: false,
+    image: "/images/3.png",
   },
 ];
 
@@ -62,32 +63,15 @@ export default function ProductShowcase() {
               className={`anim-fade-up delay-${idx + 1} group cursor-pointer`}
             >
               <div className="bg-white rounded-xl overflow-hidden transition-all duration-500 hover:shadow-lg">
-                {/* Image area */}
-                <div
-                  className={`aspect-[4/5] flex items-center justify-center relative ${
-                    product.featured ? "bg-primary-dark" : "bg-blush"
-                  }`}
-                >
-                  <div className="text-center">
-                    <div
-                      className={`w-14 h-14 mx-auto mb-4 rounded-full flex items-center justify-center ${
-                        product.featured ? "bg-white/10" : "bg-primary/5"
-                      }`}
-                    >
-                      <span
-                        className={`font-serif text-lg ${
-                          product.featured ? "text-white/60" : "text-primary/40"
-                        }`}
-                      >
-                        V
-                      </span>
-                    </div>
-                    {product.featured && (
-                      <span className="inline-block px-3 py-1 bg-white/10 rounded-full text-white/60 text-[10px] tracking-[0.15em] uppercase">
-                        Flagship
-                      </span>
-                    )}
-                  </div>
+                {/* Image */}
+                <div className="relative aspect-[4/5] overflow-hidden">
+                  <Image
+                    src={product.image}
+                    alt={product.nameKr}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-700"
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                  />
                 </div>
 
                 {/* Info */}

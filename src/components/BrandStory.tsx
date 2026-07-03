@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 export default function BrandStory() {
@@ -46,20 +47,17 @@ export default function BrandStory() {
             </a>
           </div>
 
-          {/* Right: Visual */}
+          {/* Right: Product image */}
           <div className="anim-slide-r">
-            <div className="relative aspect-[4/5] bg-blush rounded-2xl overflow-hidden flex items-center justify-center">
-              <div className="text-center">
-                <p className="text-primary/10 text-[10px] tracking-[0.5em] uppercase mb-6">
-                  Established in Korea
-                </p>
-                <p className="font-serif text-primary/15 text-[8rem] md:text-[10rem] leading-none">
-                  V
-                </p>
-                <p className="text-primary/10 text-[10px] tracking-[0.5em] uppercase mt-6">
-                  Professional Haircare
-                </p>
-              </div>
+            <div className="relative aspect-[4/5] rounded-2xl overflow-hidden">
+              <Image
+                src="/images/product.png"
+                alt="VELURE 제품 컬렉션"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                priority
+              />
             </div>
           </div>
         </div>

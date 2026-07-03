@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 
 export default function HeroSection() {
   const [loaded, setLoaded] = useState(false);
@@ -10,12 +11,20 @@ export default function HeroSection() {
   }, []);
 
   return (
-    <section className="relative h-[100dvh] w-full flex items-center justify-center overflow-hidden bg-primary-dark">
-      {/* Subtle gradient overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-transparent to-black/10" />
+    <section className="relative h-[100dvh] w-full flex items-center overflow-hidden bg-primary-dark">
+      {/* Background product image */}
+      <Image
+        src="/images/product2.png"
+        alt=""
+        fill
+        className="object-cover opacity-30"
+        priority
+      />
+      {/* Gradient overlay */}
+      <div className="absolute inset-0 bg-gradient-to-r from-primary-dark via-primary-dark/90 to-primary-dark/60" />
 
       {/* Content */}
-      <div className="relative z-10 text-center px-8 max-w-5xl mx-auto">
+      <div className="relative z-10 w-full max-w-[1200px] mx-auto px-8 lg:px-16">
         {/* Category label */}
         <div
           className={`transition-all duration-700 delay-300 ${
@@ -43,7 +52,7 @@ export default function HeroSection() {
 
         {/* Korean subtext */}
         <p
-          className={`text-white/45 text-[15px] md:text-[17px] font-light tracking-[0.08em] mt-12 mb-16 transition-all duration-700 delay-700 ${
+          className={`text-white/50 text-[15px] md:text-[17px] font-light tracking-[0.08em] mt-12 mb-16 max-w-[500px] transition-all duration-700 delay-700 ${
             loaded ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
@@ -52,7 +61,7 @@ export default function HeroSection() {
 
         {/* CTA buttons */}
         <div
-          className={`flex flex-wrap justify-center gap-4 transition-all duration-700 delay-1000 ${
+          className={`flex flex-wrap gap-4 transition-all duration-700 delay-1000 ${
             loaded ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
