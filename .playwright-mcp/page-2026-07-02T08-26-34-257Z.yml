@@ -1,0 +1,142 @@
+- generic [active] [ref=f2e1]:
+  - navigation [ref=f2e2]:
+    - generic [ref=f2e4]:
+      - link "VELURE" [ref=f2e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f2e6]:
+        - link "브랜드 스토리" [ref=f2e7] [cursor=pointer]:
+          - /url: "#story"
+        - link "제품" [ref=f2e8] [cursor=pointer]:
+          - /url: "#products"
+        - link "사용법" [ref=f2e9] [cursor=pointer]:
+          - /url: "#howto"
+        - link "핵심 장점" [ref=f2e10] [cursor=pointer]:
+          - /url: "#benefits"
+        - link "후기" [ref=f2e11] [cursor=pointer]:
+          - /url: "#reviews"
+  - main [ref=f2e12]:
+    - generic [ref=f2e19]:
+      - paragraph [ref=f2e23]: Korean Professional Haircare
+      - heading "ROOT VOLUME. REDEFINED." [level=1] [ref=f2e25]:
+        - generic [ref=f2e26]: ROOT VOLUME.
+        - generic [ref=f2e27]: REDEFINED.
+      - paragraph [ref=f2e28]: 드라이 없이도, 뿌리부터 자연스러운 볼륨
+      - link "자세히 보기" [ref=f2e30] [cursor=pointer]:
+        - /url: "#products"
+        - generic [ref=f2e31]: 자세히 보기
+    - generic [ref=f2e38]:
+      - generic [ref=f2e43]:
+        - paragraph [ref=f2e48]: Established in Korea
+        - paragraph [ref=f2e49]: V
+        - paragraph [ref=f2e50]: Professional Haircare
+      - generic [ref=f2e52]:
+        - paragraph [ref=f2e53]: Brand Story
+        - heading "한국 전문 헤어 디자이너의" [level=2] [ref=f2e54]
+        - heading "시크릿 웨폰" [level=2] [ref=f2e55]
+        - generic [ref=f2e57]:
+          - paragraph [ref=f2e58]: VELURE는 한국 톱 헤어살롱의 전문 기술에서 탄생했습니다. 살롱에서만 가능했던 프로페셔널 발근 볼륨을 집에서도 경험할 수 있도록 설계되었습니다.
+          - paragraph [ref=f2e59]: 진정한 아름다움은 자신감에서 시작됩니다. 뿌리가 자연스럽게 살아나면, 드라이 없이도 우아한 볼륨감을 연출할 수 있습니다.
+          - paragraph [ref=f2e60]: VELURE의 모든 제품에는 한국 헤어 사이언스의 정수가 담겨 있습니다.
+    - generic [ref=f2e62]:
+      - generic [ref=f2e63]:
+        - paragraph [ref=f2e64]: Products
+        - heading "제품 라인업" [level=2] [ref=f2e65]
+      - generic [ref=f2e66]:
+        - generic [ref=f2e68] [cursor=pointer]:
+          - generic [ref=f2e72]: V
+          - generic [ref=f2e74]:
+            - paragraph [ref=f2e75]: VOLUME UP SOLUTION PLUS
+            - heading "볼륨업 솔루션 플러스" [level=3] [ref=f2e76]
+            - paragraph [ref=f2e77]: 뿌리 영양과 볼륨을 동시에, 데일리 에센스
+            - generic [ref=f2e79]: 자세히 보기
+        - generic [ref=f2e82] [cursor=pointer]:
+          - generic [ref=f2e84]:
+            - generic [ref=f2e86]: V
+            - paragraph [ref=f2e87]: Flagship
+          - generic [ref=f2e89]:
+            - paragraph [ref=f2e90]: ROOT VOLUME PERM KIT
+            - heading "루트 볼륨 펌 키트" [level=3] [ref=f2e91]
+            - paragraph [ref=f2e92]: 집에서 완성하는 프로페셔널 발근 볼륨 펌
+            - generic [ref=f2e94]: 자세히 보기
+        - generic [ref=f2e97] [cursor=pointer]:
+          - generic [ref=f2e101]: V
+          - generic [ref=f2e103]:
+            - paragraph [ref=f2e104]: CURL FIXER
+            - heading "컬 픽서" [level=3] [ref=f2e105]
+            - paragraph [ref=f2e106]: 하루 종일 자연스러운 컬을 유지하는 픽싱 미스트
+            - generic [ref=f2e108]: 자세히 보기
+    - generic [ref=f2e112]:
+      - generic [ref=f2e113]:
+        - paragraph [ref=f2e114]: How to Use
+        - heading "사용 방법" [level=2] [ref=f2e115]
+      - generic [ref=f2e116]:
+        - generic [ref=f2e117]:
+          - paragraph [ref=f2e119]: "01"
+          - heading "세정" [level=3] [ref=f2e120]
+          - paragraph [ref=f2e122]: 미온수로 머리를 깨끗이 감고 타올로 가볍게 물기를 제거합니다
+        - generic [ref=f2e123]:
+          - paragraph [ref=f2e125]: "02"
+          - heading "도포" [level=3] [ref=f2e126]
+          - paragraph [ref=f2e128]: 볼륨 에센스를 뿌리 부위에 골고루 도포하고 부드럽게 마사지합니다
+        - generic [ref=f2e129]:
+          - paragraph [ref=f2e131]: "03"
+          - heading "침투" [level=3] [ref=f2e132]
+          - paragraph [ref=f2e134]: 15~20분간 그대로 두어 유효 성분이 뿌리까지 충분히 침투되도록 합니다
+        - generic [ref=f2e135]:
+          - paragraph [ref=f2e136]: "04"
+          - heading "완성" [level=3] [ref=f2e137]
+          - paragraph [ref=f2e139]: 깨끗이 헹군 후 자연 건조하면 뿌리부터 살아나는 볼륨을 느낄 수 있습니다
+    - generic [ref=f2e142]:
+      - generic [ref=f2e143]:
+        - paragraph [ref=f2e144]: Why VELURE
+        - heading "핵심 장점" [level=2] [ref=f2e145]
+      - generic [ref=f2e146]:
+        - generic [ref=f2e147]:
+          - paragraph [ref=f2e148]: "01"
+          - heading "드라이 없이 볼륨" [level=3] [ref=f2e149]
+          - paragraph [ref=f2e150]: No Dryer Needed
+          - paragraph [ref=f2e152]: 자연 건조만으로도 뿌리부터 자연스러운 볼륨감이 유지됩니다. 매일 드라이기에 의존하던 루틴에서 벗어나세요.
+        - generic [ref=f2e153]:
+          - paragraph [ref=f2e154]: "02"
+          - heading "홈 셀프 펌" [level=3] [ref=f2e155]
+          - paragraph [ref=f2e156]: Salon at Home
+          - paragraph [ref=f2e158]: 미용실 예약 없이도 집에서 전문가 수준의 발근 볼륨 펌을 간편하게 완성할 수 있습니다.
+        - generic [ref=f2e159]:
+          - paragraph [ref=f2e160]: "03"
+          - heading "한국 제조 품질" [level=3] [ref=f2e161]
+          - paragraph [ref=f2e162]: Made in Korea
+          - paragraph [ref=f2e164]: 100% 한국에서 연구 개발 및 제조. 한국 프리미엄 살롱과 동일한 포뮬러와 기술력을 담았습니다.
+    - generic [ref=f2e166]:
+      - generic [ref=f2e167]:
+        - paragraph [ref=f2e168]: Reviews
+        - heading "고객 후기" [level=2] [ref=f2e169]
+      - generic [ref=f2e170]:
+        - generic [ref=f2e171]: “
+        - paragraph [ref=f2e173]: 한 번 쓰고 바로 반했어요. 뿌리가 진짜 살아나는데, 드라이기 하나도 안 썼거든요. 친구들이 어디서 펌 했냐고 물어봐요.
+        - generic [ref=f2e174]:
+          - paragraph [ref=f2e176]: 김서연
+          - paragraph [ref=f2e177]: 서울 · 가는 모발
+        - generic [ref=f2e178]:
+          - button "후기 1" [ref=f2e179]
+          - button "후기 2" [ref=f2e180]
+          - button "후기 3" [ref=f2e181]
+          - button "후기 4" [ref=f2e182]
+  - contentinfo [ref=f2e183]:
+    - generic [ref=f2e185]:
+      - paragraph [ref=f2e186]: VELURE
+      - paragraph [ref=f2e187]: Root Volume. Redefined.
+      - generic [ref=f2e189]:
+        - link "Instagram" [ref=f2e190] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=f2e191]
+        - link "YouTube" [ref=f2e193] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=f2e194]
+        - link "KakaoTalk" [ref=f2e196] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=f2e197]
+      - paragraph [ref=f2e199]: contact@velure.kr
+      - paragraph [ref=f2e200]: © 2026 VELURE. All rights reserved. Made in Korea.
+  - button "Open Next.js Dev Tools" [ref=f2e206] [cursor=pointer]:
+    - img [ref=f2e207]
+  - alert [ref=f2e210]

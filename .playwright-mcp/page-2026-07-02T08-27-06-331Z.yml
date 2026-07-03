@@ -1,0 +1,664 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e3]:
+      - heading "에이피알" [level=1] [ref=f3e4]:
+        - link "에이피알" [ref=f3e5] [cursor=pointer]:
+          - /url: /index.html
+          - generic [ref=f3e6]: 에이피알
+      - navigation [ref=f3e7]:
+        - list [ref=f3e8]:
+          - listitem [ref=f3e9]:
+            - link "회사소개" [ref=f3e10] [cursor=pointer]:
+              - /url: /apr_about.html
+            - generic [ref=f3e11]:
+              - link "회사개요" [ref=f3e14] [cursor=pointer]:
+                - /url: /apr_about.html
+              - link "CI" [ref=f3e17] [cursor=pointer]:
+                - /url: /apr_ci.html
+          - listitem [ref=f3e18]:
+            - link "브랜드" [ref=f3e19] [cursor=pointer]:
+              - /url: /apr_medicube.html
+            - generic [ref=f3e20]:
+              - generic [ref=f3e21]:
+                - generic [ref=f3e22]: 뷰티
+                - list [ref=f3e23]:
+                  - listitem [ref=f3e24]:
+                    - link "메디큐브(MEDICUBE)" [ref=f3e25] [cursor=pointer]:
+                      - /url: /apr_medicube.html
+                  - listitem [ref=f3e26]:
+                    - link "에이프릴스킨(APRILSKIN)" [ref=f3e27] [cursor=pointer]:
+                      - /url: /apr_aprilskin.html
+                  - listitem [ref=f3e28]:
+                    - link "포맨트(FORMENT)" [ref=f3e29] [cursor=pointer]:
+                      - /url: /apr_forment.html
+              - generic [ref=f3e30]:
+                - generic [ref=f3e31]: 이너뷰티
+                - list [ref=f3e32]:
+                  - listitem [ref=f3e33]:
+                    - link "글램디 바이오(GLAM.D Bio)" [ref=f3e34] [cursor=pointer]:
+                      - /url: /apr_glamd.html
+              - generic [ref=f3e35]:
+                - generic [ref=f3e36]: 패션
+                - list [ref=f3e37]:
+                  - listitem [ref=f3e38]:
+                    - link "엔디와이(NDY)" [ref=f3e39] [cursor=pointer]:
+                      - /url: /apr_ndy.html
+              - generic [ref=f3e40]:
+                - generic [ref=f3e41]: 엔터테인먼트
+                - list [ref=f3e42]:
+                  - listitem [ref=f3e43]:
+                    - link "포토그레이(PHOTOGRAY)" [ref=f3e44] [cursor=pointer]:
+                      - /url: /apr_photogray.html
+          - listitem [ref=f3e45]:
+            - link "뷰티테크" [ref=f3e46] [cursor=pointer]:
+              - /url: /beauty_tech.html
+          - listitem [ref=f3e47]:
+            - link "뉴스룸" [ref=f3e48] [cursor=pointer]:
+              - /url: /newsroom.html
+          - listitem [ref=f3e49]:
+            - link "투자정보" [ref=f3e50] [cursor=pointer]:
+              - /url: /ir.php
+            - generic [ref=f3e51]:
+              - generic [ref=f3e52]:
+                - link "IR 자료" [ref=f3e54] [cursor=pointer]:
+                  - /url: /ir.php
+                - list [ref=f3e55]:
+                  - listitem [ref=f3e56]:
+                    - link "실적자료" [ref=f3e57] [cursor=pointer]:
+                      - /url: /ir.php
+                  - listitem [ref=f3e58]:
+                    - link "IR 일정" [ref=f3e59] [cursor=pointer]:
+                      - /url: /ir-calendar.php
+              - link "공고" [ref=f3e62] [cursor=pointer]:
+                - /url: /public-notice.php
+              - generic [ref=f3e63]:
+                - link "주주환원" [ref=f3e65] [cursor=pointer]:
+                  - /url: /shareholder_return.html
+                - list [ref=f3e66]:
+                  - listitem [ref=f3e67]:
+                    - link "주주환원정책 및 현황" [ref=f3e68] [cursor=pointer]:
+                      - /url: /shareholder_return.html
+                  - listitem [ref=f3e69]:
+                    - link "주주구성" [ref=f3e70] [cursor=pointer]:
+                      - /url: /shareholder_composition.html
+              - generic [ref=f3e71]:
+                - link "재무정보" [ref=f3e73] [cursor=pointer]:
+                  - /url: /financial_highlights.html
+                - list [ref=f3e74]:
+                  - listitem [ref=f3e75]:
+                    - link "재무하이라이트" [ref=f3e76] [cursor=pointer]:
+                      - /url: /financial_highlights.html
+                  - listitem [ref=f3e77]:
+                    - link "감사보고서" [ref=f3e78] [cursor=pointer]:
+                      - /url: /audit-report.php
+                  - listitem [ref=f3e79]:
+                    - link "사업보고서" [ref=f3e80] [cursor=pointer]:
+                      - /url: /annual-report.php
+                  - listitem [ref=f3e81]:
+                    - link "기업지배구조보고서" [ref=f3e82] [cursor=pointer]:
+                      - /url: /governance-report.php
+              - link "IR 문의" [ref=f3e85] [cursor=pointer]:
+                - /url: /ir-contact.html
+          - listitem [ref=f3e86]:
+            - link "ESG" [ref=f3e87] [cursor=pointer]:
+              - /url: /esg_overview.html
+            - generic [ref=f3e88]:
+              - link "ESG Overview" [ref=f3e91] [cursor=pointer]:
+                - /url: /esg_overview.html
+              - generic [ref=f3e92]:
+                - link "Environment" [ref=f3e94] [cursor=pointer]:
+                  - /url: /environment_management.html
+                - list [ref=f3e95]:
+                  - listitem [ref=f3e96]:
+                    - link "사업장 환경 관리" [ref=f3e97] [cursor=pointer]:
+                      - /url: /environment_management.html
+                  - listitem [ref=f3e98]:
+                    - link "제품 환경영향 관리" [ref=f3e99] [cursor=pointer]:
+                      - /url: /product_sustainability.html
+                  - listitem [ref=f3e100]:
+                    - link "제품 포장재 재활용 정보" [ref=f3e101] [cursor=pointer]:
+                      - /url: /product_recycling.html
+              - generic [ref=f3e102]:
+                - link "Social" [ref=f3e104] [cursor=pointer]:
+                  - /url: /social_people.html
+                - list [ref=f3e105]:
+                  - listitem [ref=f3e106]:
+                    - link "직원 성장과 역량 개발" [ref=f3e107] [cursor=pointer]:
+                      - /url: /social_people.html
+                  - listitem [ref=f3e108]:
+                    - link "사회공헌" [ref=f3e109] [cursor=pointer]:
+                      - /url: /social_responsibility.html
+                  - listitem [ref=f3e110]:
+                    - link "안전보건" [ref=f3e111] [cursor=pointer]:
+                      - /url: /social_safety.html
+                  - listitem [ref=f3e112]:
+                    - link "정보보호" [ref=f3e113] [cursor=pointer]:
+                      - /url: /information_protection.html
+                  - listitem [ref=f3e114]:
+                    - link "제품 안전 관리" [ref=f3e115] [cursor=pointer]:
+                      - /url: /product_safety.html
+              - generic [ref=f3e116]:
+                - link "Governance" [ref=f3e118] [cursor=pointer]:
+                  - /url: /governance.html
+                - list [ref=f3e119]:
+                  - listitem [ref=f3e120]:
+                    - link "기업지배구조" [ref=f3e121] [cursor=pointer]:
+                      - /url: /governance.html
+                  - listitem [ref=f3e122]:
+                    - link "컴플라이언스 & 윤리경영" [ref=f3e123] [cursor=pointer]:
+                      - /url: /compliance.html
+              - generic [ref=f3e124]:
+                - link "ESG Library" [ref=f3e126] [cursor=pointer]:
+                  - /url: /sustainability_report.html
+                - list [ref=f3e127]:
+                  - listitem [ref=f3e128]:
+                    - link "지속가능경영보고서" [ref=f3e129] [cursor=pointer]:
+                      - /url: /sustainability_report.html
+                  - listitem [ref=f3e130]:
+                    - link "Policy" [ref=f3e131] [cursor=pointer]:
+                      - /url: /esg_library.html
+          - listitem [ref=f3e132]:
+            - link "채용정보" [ref=f3e133] [cursor=pointer]:
+              - /url: https://apr-careers.com/
+          - listitem [ref=f3e134]:
+            - link "APEC 2025" [ref=f3e135] [cursor=pointer]:
+              - /url: /apec.html
+          - list [ref=f3e136]:
+            - listitem [ref=f3e137]:
+              - link "KR" [ref=f3e138] [cursor=pointer]:
+                - /url: /index.html
+            - listitem [ref=f3e139]:
+              - link "EN" [ref=f3e140] [cursor=pointer]:
+                - /url: /en/index.html
+    - generic [ref=f3e141]:
+      - navigation [ref=f3e142]:
+        - list [ref=f3e143]:
+          - listitem [ref=f3e144]:
+            - text: 회사소개
+            - generic [ref=f3e145]:
+              - link "회사개요" [ref=f3e147] [cursor=pointer]:
+                - /url: /apr_about.html
+              - link "CI" [ref=f3e149] [cursor=pointer]:
+                - /url: /apr_ci.html
+          - listitem [ref=f3e150]:
+            - text: 브랜드
+            - generic [ref=f3e151]:
+              - generic [ref=f3e152]:
+                - generic [ref=f3e153]: 뷰티
+                - list [ref=f3e154]:
+                  - listitem [ref=f3e155]:
+                    - link "메디큐브" [ref=f3e156] [cursor=pointer]:
+                      - /url: /apr_medicube.html
+                  - listitem [ref=f3e157]:
+                    - link "에이프릴스킨" [ref=f3e158] [cursor=pointer]:
+                      - /url: /apr_aprilskin.html
+                  - listitem [ref=f3e159]:
+                    - link "포맨트" [ref=f3e160] [cursor=pointer]:
+                      - /url: /apr_forment.html
+              - generic [ref=f3e161]:
+                - generic [ref=f3e162]: 이너뷰티
+                - list [ref=f3e163]:
+                  - listitem [ref=f3e164]:
+                    - link "글램디 바이오" [ref=f3e165] [cursor=pointer]:
+                      - /url: /apr_glamd.html
+              - generic [ref=f3e166]:
+                - generic [ref=f3e167]: 패션
+                - list [ref=f3e168]:
+                  - listitem [ref=f3e169]:
+                    - link "엔디와이(NDY)" [ref=f3e170] [cursor=pointer]:
+                      - /url: /apr_ndy.html
+              - generic [ref=f3e171]:
+                - generic [ref=f3e172]: 엔터테인먼트
+                - list [ref=f3e173]:
+                  - listitem [ref=f3e174]:
+                    - link "포토그레이" [ref=f3e175] [cursor=pointer]:
+                      - /url: /apr_photogray.html
+          - listitem [ref=f3e176]:
+            - link "뷰티테크" [ref=f3e177] [cursor=pointer]:
+              - /url: /beauty_tech.html
+          - listitem [ref=f3e178]:
+            - link "뉴스룸" [ref=f3e179] [cursor=pointer]:
+              - /url: /newsroom.html
+          - listitem [ref=f3e180]:
+            - text: 투자정보
+            - generic [ref=f3e181]:
+              - generic [ref=f3e182]:
+                - generic [ref=f3e183]: IR자료
+                - list [ref=f3e184]:
+                  - listitem [ref=f3e185]:
+                    - link "실적자료" [ref=f3e186] [cursor=pointer]:
+                      - /url: /ir.php
+                  - listitem [ref=f3e187]:
+                    - link "IR 일정" [ref=f3e188] [cursor=pointer]:
+                      - /url: /ir-calendar.php
+              - link "공고" [ref=f3e190] [cursor=pointer]:
+                - /url: /public-notice.php
+              - generic [ref=f3e191]:
+                - generic [ref=f3e192]: 주주환원
+                - list [ref=f3e193]:
+                  - listitem [ref=f3e194]:
+                    - link "주주환원정책 및 현황" [ref=f3e195] [cursor=pointer]:
+                      - /url: /shareholder_return.html
+                  - listitem [ref=f3e196]:
+                    - link "주주구성" [ref=f3e197] [cursor=pointer]:
+                      - /url: /shareholder_composition.html
+              - generic [ref=f3e198]:
+                - generic [ref=f3e199]: 재무정보
+                - list [ref=f3e200]:
+                  - listitem [ref=f3e201]:
+                    - link "재무하이라이트" [ref=f3e202] [cursor=pointer]:
+                      - /url: /financial_highlights.html
+                  - listitem [ref=f3e203]:
+                    - link "감사보고서" [ref=f3e204] [cursor=pointer]:
+                      - /url: /audit-report.php
+                  - listitem [ref=f3e205]:
+                    - link "사업보고서" [ref=f3e206] [cursor=pointer]:
+                      - /url: /annual-report.php
+                  - listitem [ref=f3e207]:
+                    - link "기업지배구조보고서" [ref=f3e208] [cursor=pointer]:
+                      - /url: /governance-report.php
+              - link "IR 문의" [ref=f3e210] [cursor=pointer]:
+                - /url: /ir-contact.html
+          - listitem [ref=f3e211]:
+            - text: ESG
+            - generic [ref=f3e212]:
+              - link "ESG Overview" [ref=f3e214] [cursor=pointer]:
+                - /url: /esg_overview.html
+              - generic [ref=f3e215]:
+                - generic [ref=f3e216]: Environment
+                - list [ref=f3e217]:
+                  - listitem [ref=f3e218]:
+                    - link "사업장 환경 관리" [ref=f3e219] [cursor=pointer]:
+                      - /url: /environment_management.html
+                  - listitem [ref=f3e220]:
+                    - link "제품 환경영향 관리" [ref=f3e221] [cursor=pointer]:
+                      - /url: /product_sustainability.html
+                  - listitem [ref=f3e222]:
+                    - link "제품 포장재 활용 정보" [ref=f3e223] [cursor=pointer]:
+                      - /url: /product_recycling.html
+              - generic [ref=f3e224]:
+                - generic [ref=f3e225]: Social
+                - list [ref=f3e226]:
+                  - listitem [ref=f3e227]:
+                    - link "직원 성장과 역량 개발" [ref=f3e228] [cursor=pointer]:
+                      - /url: /social_people.html
+                  - listitem [ref=f3e229]:
+                    - link "사회공헌" [ref=f3e230] [cursor=pointer]:
+                      - /url: /social_responsibility.html
+                  - listitem [ref=f3e231]:
+                    - link "안전보건" [ref=f3e232] [cursor=pointer]:
+                      - /url: /social_safety.html
+                  - listitem [ref=f3e233]:
+                    - link "정보보호" [ref=f3e234] [cursor=pointer]:
+                      - /url: /information_protection.html
+                  - listitem [ref=f3e235]:
+                    - link "제품 안전 관리" [ref=f3e236] [cursor=pointer]:
+                      - /url: /product_safety.html
+              - generic [ref=f3e237]:
+                - generic [ref=f3e238]: Governance
+                - list [ref=f3e239]:
+                  - listitem [ref=f3e240]:
+                    - link "기업지배구조" [ref=f3e241] [cursor=pointer]:
+                      - /url: /governance.html
+                  - listitem [ref=f3e242]:
+                    - link "컴플라이언스 & 윤리경영" [ref=f3e243] [cursor=pointer]:
+                      - /url: /compliance.html
+              - generic [ref=f3e244]:
+                - generic [ref=f3e245]: ESG Library
+                - list [ref=f3e246]:
+                  - listitem [ref=f3e247]:
+                    - link "지속가능경영보고서" [ref=f3e248] [cursor=pointer]:
+                      - /url: /sustainability_report.html
+                  - listitem [ref=f3e249]:
+                    - link "Policy" [ref=f3e250] [cursor=pointer]:
+                      - /url: /esg_library.html
+          - listitem [ref=f3e251]:
+            - link "채용정보" [ref=f3e252] [cursor=pointer]:
+              - /url: https://apr-careers.com/
+          - listitem [ref=f3e253]:
+            - link "APEC 2025" [ref=f3e254] [cursor=pointer]:
+              - /url: /apec.html
+              - img "APEC 2025" [ref=f3e255]
+      - list [ref=f3e256]:
+        - listitem [ref=f3e257]:
+          - link "KR" [ref=f3e258] [cursor=pointer]:
+            - /url: /index.html
+        - listitem [ref=f3e259]:
+          - link "EN" [ref=f3e260] [cursor=pointer]:
+            - /url: /en/index.html
+  - main [ref=f3e261]:
+    - generic [ref=f3e263]:
+      - generic [ref=f3e265]:
+        - generic [ref=f3e266]:
+          - group "3 / 3" [ref=f3e267]:
+            - heading "H e a l t h - c a r e S o l u t i o n" [level=2] [ref=f3e268]:
+              - generic [ref=f3e269]: H
+              - generic [ref=f3e270]: e
+              - generic [ref=f3e271]: a
+              - generic [ref=f3e272]: l
+              - generic [ref=f3e273]: t
+              - generic [ref=f3e274]: h
+              - generic [ref=f3e275]: "-"
+              - generic [ref=f3e276]: c
+              - generic [ref=f3e277]: a
+              - generic [ref=f3e278]: r
+              - generic [ref=f3e279]: e
+              - generic [ref=f3e280]: S
+              - generic [ref=f3e281]: o
+              - generic [ref=f3e282]: l
+              - generic [ref=f3e283]: u
+              - generic [ref=f3e284]: t
+              - generic [ref=f3e285]: i
+              - generic [ref=f3e286]: o
+              - generic [ref=f3e287]: "n"
+          - group "1 / 3" [ref=f3e288]:
+            - heading "B e a u t y S o l u t i o n" [level=2] [ref=f3e290]:
+              - generic [ref=f3e291]: B
+              - generic [ref=f3e292]: e
+              - generic [ref=f3e293]: a
+              - generic [ref=f3e294]: u
+              - generic [ref=f3e295]: t
+              - generic [ref=f3e296]: "y"
+              - generic [ref=f3e297]: S
+              - generic [ref=f3e298]: o
+              - generic [ref=f3e299]: l
+              - generic [ref=f3e300]: u
+              - generic [ref=f3e301]: t
+              - generic [ref=f3e302]: i
+              - generic [ref=f3e303]: o
+              - generic [ref=f3e304]: "n"
+          - group "2 / 3" [ref=f3e305]:
+            - heading "A G E - R D e v i c e S o l u t i o n" [level=2] [ref=f3e307]:
+              - generic [ref=f3e308]: A
+              - generic [ref=f3e309]: G
+              - generic [ref=f3e310]: E
+              - generic [ref=f3e311]: "-"
+              - generic [ref=f3e312]: R
+              - generic [ref=f3e313]: D
+              - generic [ref=f3e314]: e
+              - generic [ref=f3e315]: v
+              - generic [ref=f3e316]: i
+              - generic [ref=f3e317]: c
+              - generic [ref=f3e318]: e
+              - generic [ref=f3e319]: S
+              - generic [ref=f3e320]: o
+              - generic [ref=f3e321]: l
+              - generic [ref=f3e322]: u
+              - generic [ref=f3e323]: t
+              - generic [ref=f3e324]: i
+              - generic [ref=f3e325]: o
+              - generic [ref=f3e326]: "n"
+          - group "3 / 3" [ref=f3e327]:
+            - heading "H e a l t h - c a r e S o l u t i o n" [level=2] [ref=f3e328]:
+              - generic [ref=f3e329]: H
+              - generic [ref=f3e330]: e
+              - generic [ref=f3e331]: a
+              - generic [ref=f3e332]: l
+              - generic [ref=f3e333]: t
+              - generic [ref=f3e334]: h
+              - generic [ref=f3e335]: "-"
+              - generic [ref=f3e336]: c
+              - generic [ref=f3e337]: a
+              - generic [ref=f3e338]: r
+              - generic [ref=f3e339]: e
+              - generic [ref=f3e340]: S
+              - generic [ref=f3e341]: o
+              - generic [ref=f3e342]: l
+              - generic [ref=f3e343]: u
+              - generic [ref=f3e344]: t
+              - generic [ref=f3e345]: i
+              - generic [ref=f3e346]: o
+              - generic [ref=f3e347]: "n"
+          - group "1 / 3" [ref=f3e348]:
+            - heading "B e a u t y S o l u t i o n" [level=2] [ref=f3e350]:
+              - generic [ref=f3e351]: B
+              - generic [ref=f3e352]: e
+              - generic [ref=f3e353]: a
+              - generic [ref=f3e354]: u
+              - generic [ref=f3e355]: t
+              - generic [ref=f3e356]: "y"
+              - generic [ref=f3e357]: S
+              - generic [ref=f3e358]: o
+              - generic [ref=f3e359]: l
+              - generic [ref=f3e360]: u
+              - generic [ref=f3e361]: t
+              - generic [ref=f3e362]: i
+              - generic [ref=f3e363]: o
+              - generic [ref=f3e364]: "n"
+        - list [ref=f3e365]:
+          - listitem [ref=f3e366] [cursor=pointer]: 뷰티 솔루션
+          - listitem [ref=f3e367] [cursor=pointer]: 디바이스 솔루션
+          - listitem [ref=f3e368] [cursor=pointer]: 헬스케어 솔루션
+      - generic [ref=f3e372]:
+        - generic [ref=f3e374]:
+          - generic [ref=f3e375]: Cosmetics
+          - generic [ref=f3e376]:
+            - strong [ref=f3e377]: Beauty Solution
+            - paragraph [ref=f3e378]:
+              - text: 최고의 제형, 최적의 효능
+              - text: 스킨케어를 넘어 삶의 변화를 추구합니다
+        - generic [ref=f3e381]:
+          - generic [ref=f3e382]: Electronics
+          - generic [ref=f3e383]:
+            - strong [ref=f3e384]: Device Solution
+            - paragraph [ref=f3e385]:
+              - text: 국내 1위 홈 뷰티 디바이스 브랜드
+              - text: 놀라운 기술력을 바탕으로, 세상에 없던 제품을 만듭니다
+        - generic [ref=f3e388]:
+          - generic [ref=f3e389]: Medical Devices
+          - generic [ref=f3e390]:
+            - strong [ref=f3e391]: Health-care Solution
+            - paragraph [ref=f3e392]:
+              - text: 자체 개발한 PDRN과 첨단 의료기기를 통한 헬스케어의 새로운 패러다임.
+              - text: 미래 지향적인 뷰티+헬스케어 시장을 선도합니다.
+      - generic [ref=f3e394]:
+        - generic [ref=f3e395]:
+          - generic [ref=f3e396]:
+            - text: Sustained
+            - text: Growth
+          - generic [ref=f3e397]:
+            - paragraph [ref=f3e398]: 우리의 제품은 국내를 넘어 전 세계로 이르기까지 계속해서 성장하고 있습니다. 우리의 눈부신 성장을 확인해 보세요.
+            - link "투자정보" [ref=f3e399] [cursor=pointer]:
+              - /url: /ir.php
+              - text: 투자정보
+        - generic [ref=f3e401]:
+          - generic [ref=f3e402]:
+            - generic [ref=f3e403]: 25년 총 매출
+            - strong [ref=f3e404]:
+              - generic [ref=f3e405]: "1"
+              - text: 조
+            - strong [ref=f3e406]:
+              - generic [ref=f3e407]: 5,273
+              - text: 억원 +
+          - generic [ref=f3e408]:
+            - generic [ref=f3e409]: 25년 해외 매출
+            - strong [ref=f3e410]:
+              - generic [ref=f3e411]: "1"
+              - text: 조
+            - strong [ref=f3e412]:
+              - generic [ref=f3e413]: 2,258
+              - text: 억원 +
+          - generic [ref=f3e414]:
+            - generic [ref=f3e415]: 25년 국내 매출
+            - strong [ref=f3e416]:
+              - generic [ref=f3e417]: 3,016
+              - text: 억원 +
+      - generic [ref=f3e420]:
+        - generic [ref=f3e421]:
+          - text: News room
+          - link "더보기" [ref=f3e422] [cursor=pointer]:
+            - /url: /newsroom.html
+            - text: 더보기
+        - list [ref=f3e424]:
+          - listitem [ref=f3e425]:
+            - link "보도자료 [에이피알] 에이피알 김병훈 대표, 美 ‘BoB 글로벌 포럼’서 K-뷰티 혁신성 전파 2026.06.27" [ref=f3e426] [cursor=pointer]:
+              - /url: https://apr-blog.com/bobglobalforum2026
+              - generic [ref=f3e427]:
+                - generic [ref=f3e428]:
+                  - text: 보도자료
+                  - paragraph [ref=f3e429]: "[에이피알] 에이피알 김병훈 대표, 美 ‘BoB 글로벌 포럼’서 K-뷰티 혁신성 전파"
+                - paragraph [ref=f3e430]: 2026.06.27
+          - listitem [ref=f3e431]:
+            - link "보도자료 [메디큐브] 에이피알, 메디큐브 잠실 팝업 스토어 2만 5천 명 몰리며 성료 2026.06.15" [ref=f3e432] [cursor=pointer]:
+              - /url: https://apr-blog.com/jspopup
+              - generic [ref=f3e433]:
+                - generic [ref=f3e434]:
+                  - text: 보도자료
+                  - paragraph [ref=f3e435]: "[메디큐브] 에이피알, 메디큐브 잠실 팝업 스토어 2만 5천 명 몰리며 성료"
+                - paragraph [ref=f3e436]: 2026.06.15
+          - listitem [ref=f3e437]:
+            - link "보도자료 [메디큐브] 에이피알, 메디큐브 에이지알 ‘부스터 프로 X2’ 북미∙유럽 순차 출시 2026.06.10" [ref=f3e438] [cursor=pointer]:
+              - /url: https://apr-blog.com/boosterprox2-global-launch
+              - generic [ref=f3e439]:
+                - generic [ref=f3e440]:
+                  - text: 보도자료
+                  - paragraph [ref=f3e441]: "[메디큐브] 에이피알, 메디큐브 에이지알 ‘부스터 프로 X2’ 북미∙유럽 순차 출시"
+                - paragraph [ref=f3e442]: 2026.06.10
+      - generic [ref=f3e443]:
+        - generic [ref=f3e444]:
+          - generic [ref=f3e445]: ESG
+          - generic [ref=f3e446]:
+            - paragraph [ref=f3e447]:
+              - text: 깨끗한 지구를 위한 노력,
+              - text: 에이피알이 함께합니다.
+            - link "경영철학" [ref=f3e448] [cursor=pointer]:
+              - /url: /esg_overview.html
+              - text: 경영철학
+        - generic [ref=f3e450]:
+          - generic [ref=f3e451]: Careers
+          - generic [ref=f3e452]:
+            - paragraph [ref=f3e453]:
+              - text: 고객의 더 나은 삶을 위한
+              - text: 우리의 여정에 함께 하세요
+            - generic [ref=f3e454]:
+              - list [ref=f3e455]:
+                - listitem [ref=f3e456]:
+                  - link "에이프로가 일하는 방식" [ref=f3e457] [cursor=pointer]:
+                    - /url: https://apr-careers.com/culture
+                - listitem [ref=f3e458]:
+                  - link "진행중인 채용 공고" [ref=f3e459] [cursor=pointer]:
+                    - /url: https://apr-careers.com/recruit
+                - listitem [ref=f3e460]:
+                  - link "자주묻는 질문" [ref=f3e461] [cursor=pointer]:
+                    - /url: https://apr-careers.com/faq
+              - link "인재채용" [ref=f3e462] [cursor=pointer]:
+                - /url: https://apr-careers.com/
+                - text: 인재채용
+      - generic [ref=f3e466]:
+        - group "1 / 6" [ref=f3e467]:
+          - link "공식 홈페이지 바로가기" [ref=f3e468] [cursor=pointer]:
+            - /url: https://themedicube.co.kr/
+        - group "2 / 6" [ref=f3e469]:
+          - link "공식 홈페이지 바로가기" [ref=f3e470] [cursor=pointer]:
+            - /url: https://aprilskin.com/
+        - group "3 / 6" [ref=f3e471]:
+          - link "공식 홈페이지 바로가기" [ref=f3e472] [cursor=pointer]:
+            - /url: https://theforment.com/
+        - group "4 / 6" [ref=f3e473]:
+          - link "공식 홈페이지 바로가기" [ref=f3e474] [cursor=pointer]:
+            - /url: https://glamd.co.kr/
+        - group "5 / 6" [ref=f3e475]:
+          - link "공식 홈페이지 바로가기" [ref=f3e476] [cursor=pointer]:
+            - /url: https://www.ndy-official.com/
+        - group "6 / 6" [ref=f3e477]:
+          - link "공식 홈페이지 바로가기" [ref=f3e478] [cursor=pointer]:
+            - /url: https://photogray.com/
+        - group "1 / 6" [ref=f3e479]:
+          - link "공식 홈페이지 바로가기" [ref=f3e480] [cursor=pointer]:
+            - /url: https://themedicube.co.kr/
+        - group "2 / 6" [ref=f3e481]:
+          - link "공식 홈페이지 바로가기" [ref=f3e482] [cursor=pointer]:
+            - /url: https://aprilskin.com/
+        - group "3 / 6" [ref=f3e483]:
+          - link "공식 홈페이지 바로가기" [ref=f3e484] [cursor=pointer]:
+            - /url: https://theforment.com/
+        - group "4 / 6" [ref=f3e485]:
+          - link "공식 홈페이지 바로가기" [ref=f3e486] [cursor=pointer]:
+            - /url: https://glamd.co.kr/
+        - group "5 / 6" [ref=f3e487]:
+          - link "공식 홈페이지 바로가기" [ref=f3e488] [cursor=pointer]:
+            - /url: https://www.ndy-official.com/
+        - group "6 / 6" [ref=f3e489]:
+          - link "공식 홈페이지 바로가기" [ref=f3e490] [cursor=pointer]:
+            - /url: https://photogray.com/
+        - group "1 / 6" [ref=f3e491]:
+          - link "공식 홈페이지 바로가기" [ref=f3e492] [cursor=pointer]:
+            - /url: https://themedicube.co.kr/
+        - group "2 / 6" [ref=f3e493]:
+          - link "공식 홈페이지 바로가기" [ref=f3e494] [cursor=pointer]:
+            - /url: https://aprilskin.com/
+        - group "3 / 6" [ref=f3e495]:
+          - link "공식 홈페이지 바로가기" [ref=f3e496] [cursor=pointer]:
+            - /url: https://theforment.com/
+        - group "4 / 6" [ref=f3e497]:
+          - link "공식 홈페이지 바로가기" [ref=f3e498] [cursor=pointer]:
+            - /url: https://glamd.co.kr/
+        - group "5 / 6" [ref=f3e499]:
+          - link "공식 홈페이지 바로가기" [ref=f3e500] [cursor=pointer]:
+            - /url: https://www.ndy-official.com/
+        - group "6 / 6" [ref=f3e501]:
+          - link "공식 홈페이지 바로가기" [ref=f3e502] [cursor=pointer]:
+            - /url: https://photogray.com/
+  - contentinfo [ref=f3e503]:
+    - generic [ref=f3e504]:
+      - generic [ref=f3e505]:
+        - generic [ref=f3e506]:
+          - generic [ref=f3e507]: 주식회사 에이피알
+          - text: 대표이사 김병훈
+          - text: 서울특별시 송파구 올림픽로 300, 36층 (신천동, 롯데월드타워)
+          - text: "대표번호: 02-6335-0574"
+          - generic [ref=f3e510]:
+            - text: 사업자등록번호 220-88-89441
+            - link "[사업자정보확인]" [ref=f3e511] [cursor=pointer]:
+              - /url: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=2208889441
+          - text: "통신판매업 신고: 제2016-서울강남-00818"
+          - text: 본 사이트의 모든 콘텐츠는 저작권법의 보호를 받는 바, 무단 전재, 복사, 배포 등을 금합니다.
+        - paragraph [ref=f3e512]: © APR all rights reserved.
+      - list [ref=f3e514]:
+        - listitem [ref=f3e515]:
+          - link "회사소개" [ref=f3e516] [cursor=pointer]:
+            - /url: /apr_about.html
+        - listitem [ref=f3e517]:
+          - link "개인정보처리방침" [ref=f3e518] [cursor=pointer]:
+            - /url: /privacy_20250801.html
+        - listitem [ref=f3e519]:
+          - link "공시정보관리규정" [ref=f3e520] [cursor=pointer]:
+            - /url: /download/APR_Disclosure_Management_Rules.pdf
+        - listitem [ref=f3e521]:
+          - link "온라인신문고" [ref=f3e522] [cursor=pointer]:
+            - /url: /report.html
+        - listitem [ref=f3e523]:
+          - link "인재채용" [ref=f3e524] [cursor=pointer]:
+            - /url: https://apr-careers.com/
+        - listitem [ref=f3e525]:
+          - link "공지사항" [ref=f3e526] [cursor=pointer]:
+            - /url: /notice.html
+      - generic [ref=f3e528]:
+        - list [ref=f3e530]:
+          - listitem [ref=f3e531]:
+            - link "에이피알 공식 블로그" [ref=f3e532] [cursor=pointer]:
+              - /url: https://apr-blog.com
+          - listitem [ref=f3e533]:
+            - link "메디큐브" [ref=f3e534] [cursor=pointer]:
+              - /url: https://themedicube.co.kr/
+          - listitem [ref=f3e535]:
+            - link "에이프릴스킨" [ref=f3e536] [cursor=pointer]:
+              - /url: https://aprilskin.com/
+          - listitem [ref=f3e537]:
+            - link "엔디와이" [ref=f3e538] [cursor=pointer]:
+              - /url: https://www.ndy-official.com/
+          - listitem [ref=f3e539]:
+            - link "포맨트" [ref=f3e540] [cursor=pointer]:
+              - /url: https://theforment.com/
+          - listitem [ref=f3e541]:
+            - link "글램디" [ref=f3e542] [cursor=pointer]:
+              - /url: https://glamd.co.kr/
+          - listitem [ref=f3e543]:
+            - link "포토그레이" [ref=f3e544] [cursor=pointer]:
+              - /url: http://photogray.com/
+        - paragraph [ref=f3e546] [cursor=pointer]: Family Sites
+        - generic [ref=f3e548]:
+          - generic [ref=f3e549]:
+            - img "ISMS 인증 마크"
+          - paragraph [ref=f3e550]: 정보보호 관리체계(ISMS) 인증 ㅣ 인증범위 온라인 서비스 운영(홈페이지, 메디큐브, 엔디와이, 글램디, 에이프릴스킨, 포맨트, 포토그레이) ㅣ 유효기간 2025.06.18 ~ 2028.06.17
+  - alert [ref=f3e551]

@@ -1,0 +1,142 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "VELURE" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e6]:
+        - link "브랜드 스토리" [ref=e7] [cursor=pointer]:
+          - /url: "#story"
+        - link "제품" [ref=e8] [cursor=pointer]:
+          - /url: "#products"
+        - link "사용법" [ref=e9] [cursor=pointer]:
+          - /url: "#howto"
+        - link "핵심 장점" [ref=e10] [cursor=pointer]:
+          - /url: "#benefits"
+        - link "후기" [ref=e11] [cursor=pointer]:
+          - /url: "#reviews"
+  - main [ref=e12]:
+    - generic [ref=e19]:
+      - paragraph [ref=e23]: Korean Professional Haircare
+      - heading "ROOT VOLUME. REDEFINED." [level=1] [ref=e25]:
+        - generic [ref=e26]: ROOT VOLUME.
+        - generic [ref=e27]: REDEFINED.
+      - paragraph [ref=e28]: 드라이 없이도, 뿌리부터 자연스러운 볼륨
+      - link "자세히 보기" [ref=e30] [cursor=pointer]:
+        - /url: "#products"
+        - generic [ref=e31]: 자세히 보기
+    - generic [ref=e38]:
+      - generic [ref=e43]:
+        - paragraph [ref=e48]: Established in Korea
+        - paragraph [ref=e49]: V
+        - paragraph [ref=e50]: Professional Haircare
+      - generic [ref=e52]:
+        - paragraph [ref=e53]: Brand Story
+        - heading "한국 전문 헤어 디자이너의" [level=2] [ref=e54]
+        - heading "시크릿 웨폰" [level=2] [ref=e55]
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: VELURE는 한국 톱 헤어살롱의 전문 기술에서 탄생했습니다. 살롱에서만 가능했던 프로페셔널 발근 볼륨을 집에서도 경험할 수 있도록 설계되었습니다.
+          - paragraph [ref=e59]: 진정한 아름다움은 자신감에서 시작됩니다. 뿌리가 자연스럽게 살아나면, 드라이 없이도 우아한 볼륨감을 연출할 수 있습니다.
+          - paragraph [ref=e60]: VELURE의 모든 제품에는 한국 헤어 사이언스의 정수가 담겨 있습니다.
+    - generic [ref=e62]:
+      - generic [ref=e63]:
+        - paragraph [ref=e64]: Products
+        - heading "제품 라인업" [level=2] [ref=e65]
+      - generic [ref=e66]:
+        - generic [ref=e68] [cursor=pointer]:
+          - generic [ref=e72]: V
+          - generic [ref=e74]:
+            - paragraph [ref=e75]: VOLUME UP SOLUTION PLUS
+            - heading "볼륨업 솔루션 플러스" [level=3] [ref=e76]
+            - paragraph [ref=e77]: 뿌리 영양과 볼륨을 동시에, 데일리 에센스
+            - generic [ref=e79]: 자세히 보기
+        - generic [ref=e82] [cursor=pointer]:
+          - generic [ref=e84]:
+            - generic [ref=e86]: V
+            - paragraph [ref=e87]: Flagship
+          - generic [ref=e89]:
+            - paragraph [ref=e90]: ROOT VOLUME PERM KIT
+            - heading "루트 볼륨 펌 키트" [level=3] [ref=e91]
+            - paragraph [ref=e92]: 집에서 완성하는 프로페셔널 발근 볼륨 펌
+            - generic [ref=e94]: 자세히 보기
+        - generic [ref=e97] [cursor=pointer]:
+          - generic [ref=e101]: V
+          - generic [ref=e103]:
+            - paragraph [ref=e104]: CURL FIXER
+            - heading "컬 픽서" [level=3] [ref=e105]
+            - paragraph [ref=e106]: 하루 종일 자연스러운 컬을 유지하는 픽싱 미스트
+            - generic [ref=e108]: 자세히 보기
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: How to Use
+        - heading "사용 방법" [level=2] [ref=e115]
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - paragraph [ref=e119]: "01"
+          - heading "세정" [level=3] [ref=e120]
+          - paragraph [ref=e122]: 미온수로 머리를 깨끗이 감고 타올로 가볍게 물기를 제거합니다
+        - generic [ref=e123]:
+          - paragraph [ref=e125]: "02"
+          - heading "도포" [level=3] [ref=e126]
+          - paragraph [ref=e128]: 볼륨 에센스를 뿌리 부위에 골고루 도포하고 부드럽게 마사지합니다
+        - generic [ref=e129]:
+          - paragraph [ref=e131]: "03"
+          - heading "침투" [level=3] [ref=e132]
+          - paragraph [ref=e134]: 15~20분간 그대로 두어 유효 성분이 뿌리까지 충분히 침투되도록 합니다
+        - generic [ref=e135]:
+          - paragraph [ref=e136]: "04"
+          - heading "완성" [level=3] [ref=e137]
+          - paragraph [ref=e139]: 깨끗이 헹군 후 자연 건조하면 뿌리부터 살아나는 볼륨을 느낄 수 있습니다
+    - generic [ref=e142]:
+      - generic [ref=e143]:
+        - paragraph [ref=e144]: Why VELURE
+        - heading "핵심 장점" [level=2] [ref=e145]
+      - generic [ref=e146]:
+        - generic [ref=e147]:
+          - paragraph [ref=e148]: "01"
+          - heading "드라이 없이 볼륨" [level=3] [ref=e149]
+          - paragraph [ref=e150]: No Dryer Needed
+          - paragraph [ref=e152]: 자연 건조만으로도 뿌리부터 자연스러운 볼륨감이 유지됩니다. 매일 드라이기에 의존하던 루틴에서 벗어나세요.
+        - generic [ref=e153]:
+          - paragraph [ref=e154]: "02"
+          - heading "홈 셀프 펌" [level=3] [ref=e155]
+          - paragraph [ref=e156]: Salon at Home
+          - paragraph [ref=e158]: 미용실 예약 없이도 집에서 전문가 수준의 발근 볼륨 펌을 간편하게 완성할 수 있습니다.
+        - generic [ref=e159]:
+          - paragraph [ref=e160]: "03"
+          - heading "한국 제조 품질" [level=3] [ref=e161]
+          - paragraph [ref=e162]: Made in Korea
+          - paragraph [ref=e164]: 100% 한국에서 연구 개발 및 제조. 한국 프리미엄 살롱과 동일한 포뮬러와 기술력을 담았습니다.
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - paragraph [ref=e168]: Reviews
+        - heading "고객 후기" [level=2] [ref=e169]
+      - generic [ref=e170]:
+        - generic [ref=e171]: “
+        - paragraph [ref=e173]: 한 번 쓰고 바로 반했어요. 뿌리가 진짜 살아나는데, 드라이기 하나도 안 썼거든요. 친구들이 어디서 펌 했냐고 물어봐요.
+        - generic [ref=e174]:
+          - paragraph [ref=e176]: 김서연
+          - paragraph [ref=e177]: 서울 · 가는 모발
+        - generic [ref=e178]:
+          - button "후기 1" [ref=e179]
+          - button "후기 2" [ref=e180]
+          - button "후기 3" [ref=e181]
+          - button "후기 4" [ref=e182]
+  - contentinfo [ref=e183]:
+    - generic [ref=e185]:
+      - paragraph [ref=e186]: VELURE
+      - paragraph [ref=e187]: Root Volume. Redefined.
+      - generic [ref=e189]:
+        - link "Instagram" [ref=e190] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e191]
+        - link "YouTube" [ref=e193] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e194]
+        - link "KakaoTalk" [ref=e196] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e197]
+      - paragraph [ref=e199]: contact@velure.kr
+      - paragraph [ref=e200]: © 2026 VELURE. All rights reserved. Made in Korea.
+  - button "Open Next.js Dev Tools" [ref=e206] [cursor=pointer]:
+    - img [ref=e207]
+  - alert [ref=e210]

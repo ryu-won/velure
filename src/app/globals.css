@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #971A2A;
+  --color-primary-dark: #5a0f1c;
+  --color-primary-light: #b83344;
+  --color-blush: #F4E0E0;
+  --color-blush-dark: #e8d0d0;
+  --color-white: #ffffff;
+  --color-offwhite: #faf8f8;
+  --color-charcoal: #1a1a1a;
+  --color-gray: #888888;
+
+  --font-serif: var(--font-playfair);
+  --font-sans: var(--font-noto-sans);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--color-white);
+    color: var(--color-charcoal);
+    font-family: var(--font-sans), "Helvetica Neue", Arial, sans-serif;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: var(--color-primary);
+    color: white;
+  }
+
+  ::-webkit-scrollbar { width: 3px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--color-primary); }
+}
+
+/* Keyframes */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideLeft {
+  from { opacity: 0; transform: translateX(-60px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes slideRight {
+  from { opacity: 0; transform: translateX(60px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes lineGrow {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+@layer utilities {
+  .anim-fade-up {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  .anim-fade-up.visible {
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .anim-fade {
+    opacity: 0;
+  }
+  .anim-fade.visible {
+    animation: fadeIn 1s ease-out forwards;
+  }
+
+  .anim-slide-l {
+    opacity: 0;
+    transform: translateX(-60px);
+  }
+  .anim-slide-l.visible {
+    animation: slideLeft 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .anim-slide-r {
+    opacity: 0;
+    transform: translateX(60px);
+  }
+  .anim-slide-r.visible {
+    animation: slideRight 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .anim-line {
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+  .anim-line.visible {
+    animation: lineGrow 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .delay-1 { animation-delay: 0.1s !important; }
+  .delay-2 { animation-delay: 0.2s !important; }
+  .delay-3 { animation-delay: 0.3s !important; }
+  .delay-4 { animation-delay: 0.4s !important; }
+}
